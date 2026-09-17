@@ -1,3 +1,4 @@
+<img width="1292" height="769" alt="image" src="https://github.com/user-attachments/assets/1fa2217e-f95c-48fe-bd1d-8c07c9848c97" />
 # Screenshots
 
 Save your lab screenshots here, then link to them from the main README.
